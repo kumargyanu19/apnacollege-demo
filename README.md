@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repo.
 <br>
-Author - Kumar Gyanu
+Author - Kumar (Bhai)
